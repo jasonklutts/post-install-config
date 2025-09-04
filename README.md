@@ -51,6 +51,7 @@ They ensure secure and efficient operations by assigning appropriate access.
 
 Departments manage ticket organization and routing.  
 They provide structure, access control, automation, reporting, and autoresponses.  
+
 <img width="822" height="220" alt="image" src="https://github.com/user-attachments/assets/0fa8a6de-0050-46d3-bfb9-4e65bad5b8c8" />
 
 
